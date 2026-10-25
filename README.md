@@ -1,0 +1,2 @@
+# NextTrends
+Managing business
